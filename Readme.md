@@ -1,7 +1,6 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Анастасия  Закарюкина](https://up.htmlacademy.ru/javascript/31/user/2389537).
-* Наставник: `Андрей Изосимов`https://htmlacademy.ru/profile/id605037.
 
 ---
 
